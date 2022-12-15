@@ -1,2 +1,5 @@
 # memories-app
- Memories Social App
+
+Memories Social App
+
+MERN Stack Social Media App
